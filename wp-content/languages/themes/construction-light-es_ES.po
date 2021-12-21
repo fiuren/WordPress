@@ -1,0 +1,2459 @@
+# Translation of Themes - Construction Light in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Construction Light package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-03 09:05:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Construction Light\n"
+
+#. Theme Name of the theme
+msgid "Construction Light"
+msgstr "Construction Light"
+
+#. Description of the theme
+msgid "Construction Light is a user-friendly, feature-rich, intuitive, creative, powerful, impressive engaging and dynamic, fully customizable responsive Free Construction WordPress theme which is easy to use. Construction Light theme can be fully utilized to develop awesome and modern websites for construction business or related other business like contractors, builders, architectural firms, renovation and repair services, property dealers, building material trader, infrastructure companies, plumbing and roofing services businesses also other kinds of websites such as web agency, portfolio, photography, business and corporate websites. This theme includes excellent features like ( Banner Slider, Features Services, About Us, Call to Action Button (CTA), Main Services, Portfolio, Team Member, Testimonial, Client Logo and Video Call to Action with Button ), WooCommerce Block etc also includes 10+ elementor blocks which help to develop a clean and modern website. Construction Light WordPress theme is fully responsive, cross-browser compatible, translation ready, SEO friendly theme. If you face any problem related to our theme, you can refer to our theme documentation or contact our friendly support team. Check demo at http://demo.sparklewpthemes.com/constructionlight/ and theme details at https://sparklewpthemes.com/wordpress-themes/constructionlight and get free support forum at https://sparklewpthemes.com/support/"
+msgstr "Construction Light es un tema de construcción gratuito para WordPress, fácil de usar, rico en características, intuitivo, creativo, potente, impresionantemente atrayente y dinámico, totalmente personalizable y adaptable. El tema Construcción Light puede ser completamente utilizado para desarrollar impresionantes y modernas webs para el negocio de la construcción o relacionados con otros negocios como el de contratistas, constructores, empresas de arquitectura, servicios de renovación y reparación, comerciantes de bienes raíces, comercio de materiales de construcción, empresas de infraestructura, servicios de plomería y techado, también otros tipos de web como agencias web, porfolio, fotografía, negocios y webs corporativas. Este tema incluye excelentes características como (carrusel de banner, servicios destacados, Sobre nosotros, botón de llamada a la acción (CTA), servicios principales, porfolio, miembros del equipo, testimonios, logotipos de clientes y llamada a la acción en vídeo con botón, etc. También incluye más de 10 bloques de Elementor que te ayudan a desarrollar una web limpia y moderna. El tema para WordPress Construcción Light es totalmente adaptable, compatible con todos los navegadores, está preparado para la traducción y es amigable con el SEO. Si te enfrentas a cualquier problema relacionado con nuestro tema, puedes consultar la documentación del tema o contactar con nuestro amable equipo de soporte. Consulta la demostración en http://demo.sparklewpthemes.com/constructionlight/, los detalles del tema en https://sparklewpthemes.com/wordpress-themes/constructionlight y consulta el foro de soporte gratuito en https://sparklewpthemes.com/support/"
+
+#: inc/customizer/customizer.php:848 inc/customizer/customizer.php:1302
+msgid "Select Icon"
+msgstr "Seleccionar icono"
+
+#: inc/customizer/customizer.php:526
+msgid "Slider Type"
+msgstr "Tipo de carrusel"
+
+#: inc/starter-content/init.php:152
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: inc/customizer/customizer.php:868 inc/customizer/customizer.php:1322
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer/customizer.php:844 inc/customizer/customizer.php:1298
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/customizer.php:768 inc/customizer/customizer.php:1230
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer/customizer.php:512
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: inc/customizer/customizer.php:511
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: inc/customizer/pricing-settings.php:113
+msgid "Monthly/Yearly"
+msgstr "Mensualmente/Anualmente"
+
+#: inc/customizer/customizer.php:766 inc/customizer/customizer.php:1228
+#: inc/customizer/pricing-settings.php:111
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/customizer/pricing-settings.php:105
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customizer/pricing-settings.php:95
+msgid "Is Popular?"
+msgstr "¿Es pupular?"
+
+#: inc/customizer/pricing-settings.php:89
+msgid "Price"
+msgstr "Precio"
+
+#: inc/customizer/pricing-settings.php:83
+msgid "Page"
+msgstr "Página"
+
+#: section/section-pricing.php:41
+msgid "Popular"
+msgstr "Popular"
+
+#: inc/customizer/pricing-settings.php:76
+msgid "Item #"
+msgstr "Artículo #"
+
+#: inc/customizer/pricing-settings.php:73
+msgid "Pricing Setting"
+msgstr "Ajuste del precio"
+
+#: inc/customizer/pricing-settings.php:6
+msgid "Pricing"
+msgstr "Precio"
+
+#: section/section-pricing.php:55
+msgid "Choose Plan"
+msgstr "Elegir un plan"
+
+#: section/section-pricing.php:15
+msgid "Explore"
+msgstr "Explorar"
+
+#: inc/customizer/customizer.php:715
+msgid "Advanced Level of Customization"
+msgstr "Nivel avanzado de personalización"
+
+#: inc/customizer/customizer.php:1382
+msgid "Change Read More Link Color"
+msgstr "Cambiar el color de enlace «Leer más»"
+
+#: inc/customizer/custom-controller.php:1198
+msgid "Upgrade to PRO"
+msgstr "Mejora a PRO"
+
+#: inc/mobile-menu/mobile-menu.php:24
+msgid "Mobile"
+msgstr "Móvil"
+
+#: inc/mobile-menu/init.php:52
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer/customizer-pro/class-customize.php:77
+msgid "Upgrade To Pro"
+msgstr "Mejora a Pro"
+
+#: inc/customizer/product-type-settings.php:49
+msgid "Sub Title"
+msgstr "Subtítulo"
+
+#: inc/customizer/product-type-settings.php:104
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/customizer/customizer.php:616
+#: inc/customizer/product-type-settings.php:105
+msgid "Slider"
+msgstr "Carrusel"
+
+#: inc/customizer/customizer.php:213 inc/customizer/customizer.php:408
+#: inc/customizer/customizer.php:689 inc/customizer/pricing-settings.php:23
+#: inc/customizer/pricing-settings.php:99
+#: inc/customizer/product-type-settings.php:22
+#: inc/welcome/sections/free_vs_pro.php:168
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/customizer/customizer.php:214 inc/customizer/customizer.php:409
+#: inc/customizer/customizer.php:690 inc/customizer/pricing-settings.php:24
+#: inc/customizer/pricing-settings.php:98
+#: inc/customizer/product-type-settings.php:23
+#: inc/welcome/sections/free_vs_pro.php:167
+msgid "No"
+msgstr "No"
+
+#: inc/customizer/customizer.php:853 inc/customizer/customizer.php:1307
+#: inc/customizer/product-type-settings.php:38
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer.php:1039
+msgid "Display Style"
+msgstr "Estilo de visualización"
+
+#: inc/customizer/customizer.php:1045
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/customizer/customizer.php:1057
+msgid "Text Alignment"
+msgstr "Alineación del texto"
+
+#: inc/customizer/customizer.php:1130
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/customizer/customizer.php:1142
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/welcome/welcome.php:287
+msgid "Install Demo Importer Plugin"
+msgstr "Instalar el plugin importador de la demostración"
+
+#: inc/welcome/welcome.php:279
+msgid "Activate Demo Importer Plugin"
+msgstr "Activar el plugin importador de la demostración"
+
+#: inc/welcome/welcome.php:266
+msgid "Please leave us a %s rating if you like our theme . A huge thank you from SparkleThemes in advance!"
+msgstr "Por favor, déjanos una valoración de %s si te gusta nuestro tema. ¡Muchas gracias de antemano de parte de SparkleThemes!"
+
+#: inc/welcome/welcome.php:192
+msgid "Error! Reload the page and try again."
+msgstr "¡Error! Recarga la página e inténtalo de nuevo."
+
+#: inc/welcome/welcome.php:190 inc/welcome/welcome.php:282
+msgid "Go to Demo Importer Page"
+msgstr "Ir a la página del importador de la demostración"
+
+#: inc/welcome/welcome.php:189
+msgid "Activating Demo Importer Plugin"
+msgstr "Activando el plugin importador de la demostración"
+
+#: inc/welcome/welcome.php:188
+msgid "Installing Demo Importer Plugin"
+msgstr "Instalando el plugin importador de la demostración"
+
+#: inc/welcome/welcome.php:157
+msgid "%s"
+msgstr "%s"
+
+#: inc/welcome/welcome.php:157
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: inc/welcome/welcome.php:137
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: inc/welcome/welcome.php:133
+msgid "Go to Setting Page"
+msgstr "Ir a la página de ajustes"
+
+#: inc/welcome/welcome.php:132
+msgid "Here you will find all the necessary links and information on how to use %s."
+msgstr "Aquí encontrarás todos los enlaces e información necesarios sobre cómo usar %s."
+
+#: inc/welcome/welcome.php:131
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#: inc/welcome/welcome.php:115
+msgid "ConstructionLIght Demo"
+msgstr "Demostración de Construction Light"
+
+#: inc/welcome/welcome.php:24
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/welcome/sections/free_vs_pro.php:234
+msgid "For Premium theme, the user will get a reply in 10 hours or less."
+msgstr "Para el tema premium, el usuario recibirá una respuesta en 10 horas o menos."
+
+#: inc/welcome/sections/free_vs_pro.php:233
+msgid "Fast and Friendly Support"
+msgstr "Soporte rápido y amigable"
+
+#: inc/welcome/sections/free_vs_pro.php:226
+msgid "SEO refers to search engine optimization, or the process of optimizing a website so that people can easily find it via search engines like Google."
+msgstr "SEO se refiere a la optimización de los motores de búsqueda o al proceso de optimizar una web para que la gente pueda encontrarla fácilmente a través de motores de búsqueda como Google."
+
+#: inc/welcome/sections/free_vs_pro.php:225
+msgid "SEO Friendly"
+msgstr "Amigable con el SEO"
+
+#: inc/welcome/sections/free_vs_pro.php:219
+msgid "Child theme support makes it easy for you to transfer your settings and options when you update and change you themes."
+msgstr "La compatibilidad con temas hijo te facilita la transferencia de tus ajustes y opciones cuando actualizas y cambias tus temas."
+
+#: inc/welcome/sections/free_vs_pro.php:218
+msgid "Child Theme Support"
+msgstr "Compatibilidad con temas hijo"
+
+#: inc/welcome/sections/free_vs_pro.php:212
+msgid "Adapts to any screen size and display beautifully."
+msgstr "Se adapta elegantemente a cualquier tamaño de pantalla."
+
+#: inc/welcome/sections/free_vs_pro.php:211
+msgid "Responsive - Mobile Friendly"
+msgstr "Adaptable: amigable con móviles"
+
+#: inc/welcome/sections/free_vs_pro.php:204
+msgid "The website shows good and runs smoothly in all major browsers."
+msgstr "La web se muestra bien y funciona sin problemas en todos los principales navegadores."
+
+#: inc/welcome/sections/free_vs_pro.php:196
+msgid "Follows best SEO practices so that your website always rank higher in Search Engines."
+msgstr "Sigue las mejores prácticas de SEO para que tu web siempre tenga una mejor posición en los motores de búsqueda."
+
+#: inc/welcome/sections/free_vs_pro.php:195
+msgid "Search Engine Optimization"
+msgstr "Optimización para motores de búsqueda"
+
+#: inc/welcome/sections/free_vs_pro.php:189
+msgid "Both free and pro version are fully translation ready."
+msgstr "Tanto la versión libre como la pro están completamente preparadas para traducción."
+
+#: inc/welcome/sections/free_vs_pro.php:182
+msgid "Blogs are a great way to attract new website visitors and built trust. Sparklstore Pro comes with 4 beautifully designed blog layout posts."
+msgstr "Los blogs son una gran forma de atraer a nuevos visitantes a la web y crear confianza. Sparklstore Pro viene con 4 hermosos diseños de blogs."
+
+#: inc/welcome/sections/free_vs_pro.php:181
+msgid "4 Attractive Blog Layouts"
+msgstr "4 atractivos diseños de blog"
+
+#: inc/customizer/customizer.php:52 inc/welcome/sections/free_vs_pro.php:151
+msgid "WooCommerce Compatible"
+msgstr "Compatible con WooCommerce"
+
+#: inc/welcome/sections/free_vs_pro.php:138
+msgid "The premium version has the option to change the sidebar layout universally or change the sidebar for individual post/page. Moreover, it allows choosing the sidebar widgets for individual post/page."
+msgstr "La versión premium tiene la opción de cambiar el diseño de la barra lateral universalmente o cambiar la barra lateral para una entrada/página individual. Además, permite elegir los widgets de la barra lateral para una entrada/página individual."
+
+#: inc/welcome/sections/free_vs_pro.php:137
+msgid "Sidebar Layout Options"
+msgstr "Opciones del diseño de la barra lateral"
+
+#: inc/customizer/customizer.php:49 inc/welcome/sections/free_vs_pro.php:129
+msgid "Breadcrumb Layout and Option"
+msgstr "Diseño y opciones de las migas de pan"
+
+#: inc/welcome/sections/free_vs_pro.php:115
+msgid "Custom Widgets"
+msgstr "Widgets personalizados"
+
+#: inc/welcome/sections/free_vs_pro.php:109
+msgid "Fan of Pagebuilder? No problem, with premium version you can create your website with Elementor. Elementor provides you with unlimited possibilities to create the website of your imagination."
+msgstr "¿Fanático de Pagebuilder? No hay problema, con la versión premium puedes crear tu web con Elementor. Elementor te ofrece posibilidades ilimitadas para crear la web que imaginas."
+
+#: inc/welcome/sections/free_vs_pro.php:108
+msgid "Custom Elementor Block"
+msgstr "Bloques personalizados con Elementor"
+
+#: inc/welcome/sections/free_vs_pro.php:102
+msgid "The loading screen that appears until the website is fully loaded. The premium version has the option to choose from 16 preloaders or add your own preloader image as well."
+msgstr "La pantalla de carga que aparece hasta que la web está completamente cargada. La versión premium tiene la opción para elegir entre 16 precargadores o añadir tu propia imagen de precarga."
+
+#: inc/welcome/sections/free_vs_pro.php:101
+msgid "PreLoader Option"
+msgstr "Opción de precargador"
+
+#: inc/welcome/sections/free_vs_pro.php:95
+msgid "The free version has a simple slider option but the premium version has advanced slider type and layout options that allow to get better website looks."
+msgstr "La versión gratuita tiene una opción de carrusel simple, pero la versión premium tiene opciones avanzadas de tipo y diseño de carrusel que permiten obtener un mejor aspecto de la web."
+
+#: inc/customizer/customizer.php:45 inc/welcome/sections/free_vs_pro.php:94
+msgid "Slider Type and Layout Options"
+msgstr "Tipo de carrusel y opciones de diseño"
+
+#: inc/welcome/sections/free_vs_pro.php:88
+msgid "Our premium themes allow you to create ‘under construction‘ and ‘coming soon‘ page in the simplest way and easily customize the design as per your need."
+msgstr "Nuestros temas premium te permiten crear la página «en construcción» y «próximamente» de la forma más sencilla y personalizar fácilmente el diseño según tus necesidades."
+
+#: inc/customizer/customizer.php:44 inc/welcome/sections/free_vs_pro.php:87
+msgid "Included Maintenance Mode"
+msgstr "Incluye el modo de mantenimiento"
+
+#: inc/welcome/sections/free_vs_pro.php:81
+msgid "All our premium themes are GDPR compliant, so you don’t have to stress any warning, suspension, or legal lawsuit. We have added necessary GDPR enhancements to make sure all our themes are GDPR complaints."
+msgstr "Todos nuestros temas premium cumplen con la normativa del RGPD, por lo que no hay que hacer hincapié en ninguna advertencia, suspensión o demanda legal. Hemos añadido las mejoras necesarias para asegurarnos de que todos nuestros temas cumplen con el RGPD."
+
+#: inc/customizer/customizer.php:43 inc/welcome/sections/free_vs_pro.php:80
+msgid "GDPR Compliance & Cookies Consent"
+msgstr "Cumplimiento del RGPD y consentimiento de cookies"
+
+#: inc/welcome/sections/free_vs_pro.php:73
+msgid "The free version has a simple search option but the premium version has advanced search options ( with category, Ajax ) that allow to get better result."
+msgstr "La versión gratuita tiene una opción de búsqueda simple, pero la versión premium tiene opciones de búsqueda avanzada (con categoría, Ajax) que permiten obtener mejores resultados."
+
+#: inc/welcome/sections/free_vs_pro.php:72
+msgid "Search Options"
+msgstr "Opciones de búsqueda"
+
+#: inc/welcome/sections/free_vs_pro.php:66
+msgid "Construction Light comes with an option for the top bar where you can add contact address, social icon, nav menu."
+msgstr "Construction Light viene con una opción para la barra superior donde puedes añadir la dirección de contacto, el icono social y el menú de navegación."
+
+#: inc/welcome/sections/free_vs_pro.php:65
+msgid "Advanced Top Header Settings"
+msgstr "Ajustes avanzados de la cabecera superior"
+
+#: inc/welcome/sections/free_vs_pro.php:61
+#: inc/welcome/sections/free_vs_pro.php:75
+#: inc/welcome/sections/free_vs_pro.php:97
+#: inc/welcome/sections/free_vs_pro.php:132
+#: inc/welcome/sections/free_vs_pro.php:140
+#: inc/welcome/sections/free_vs_pro.php:154
+#: inc/welcome/sections/free_vs_pro.php:161
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: inc/welcome/sections/free_vs_pro.php:45
+#: inc/welcome/sections/free_vs_pro.php:60
+#: inc/welcome/sections/free_vs_pro.php:74
+#: inc/welcome/sections/free_vs_pro.php:96
+#: inc/welcome/sections/free_vs_pro.php:131
+#: inc/welcome/sections/free_vs_pro.php:139
+#: inc/welcome/sections/free_vs_pro.php:153
+#: inc/welcome/sections/free_vs_pro.php:160
+msgid "Basic"
+msgstr "Básico"
+
+#: inc/welcome/sections/free_vs_pro.php:59
+msgid "The free version has a basic color option but the premium version has advanced color options that allow customizing the color theme primary colors."
+msgstr "La versión gratuita tiene una opción de color básica, pero la versión premium tiene opciones de color avanzadas que permiten personalizar los colores principales del tema."
+
+#: inc/customizer/customizer.php:40 inc/welcome/sections/free_vs_pro.php:58
+msgid "Unlimited Color Options"
+msgstr "Opciones de color ilimitadas"
+
+#: inc/welcome/sections/free_vs_pro.php:52
+msgid "The premium version gives the option to choose from 6 header layout. Additionally, it allows changing the header background color, text color, header height and more."
+msgstr "La versión premium ofrece la opción de elegir entre 6 diseños de cabecera. Además, permite cambiar el color de fondo de la cabecera, el color del texto, la altura de la cabecera y más."
+
+#: inc/welcome/sections/free_vs_pro.php:51
+msgid "Multiple Header Layouts and Settings"
+msgstr "Múltiples ajustes y diseños de cabecera"
+
+#: inc/welcome/sections/free_vs_pro.php:36
+msgid "With one click demo-import, you can install the demo content with just one click."
+msgstr "Con el importador en un clic puedes instalar el contenido de ejemplo con solo un clic."
+
+#: inc/welcome/sections/free_vs_pro.php:31
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/welcome/sections/free_vs_pro.php:30
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/welcome/sections/free_vs_pro.php:29
+msgid "Features"
+msgstr "Características"
+
+#: inc/welcome/sections/free_vs_pro.php:25
+#: inc/welcome/sections/free_vs_pro.php:244
+msgid "Buy Now ($59 only)"
+msgstr "Comprar ahora (solo $59)"
+
+#: inc/welcome/sections/free_vs_pro.php:14
+msgid "Keep up to date"
+msgstr "Mantente al día"
+
+#: inc/welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFETIME"
+msgstr "ACTUALIZACIONES GRATUITAS DE POR VIDA"
+
+#: inc/welcome/sections/free_vs_pro.php:9
+msgid "Use in as many websites as you need"
+msgstr "Úsalo en tantas webs como necesites"
+
+#: inc/welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr "LICENCIA DE DOMINIO ILIMITADA"
+
+#: inc/welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr "No necesita renovación"
+
+#: inc/welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr "PAGO ÚNICO"
+
+#: inc/welcome/sections/footer.php:4
+msgid "With %s Pro theme you can create a beautiful website. But if you want to unlock more possibilities then upgrade to the premium version, Try the Premium version and check if it fits your need or not. If not, we have 14 days money-back guarantee."
+msgstr "Con el tema %s Pro puedes crear una hermosa web, pero si quieres desbloquear más posibilidades, entonces actualiza a la versión Premium. Prueba la versión Premium y comprueba si se ajusta a tus necesidades o no. Si no, tenemos 14 días de garantía de devolución del dinero."
+
+#: inc/welcome/sections/footer.php:3
+msgid "Upgrade To Premium Version (14 Days Money Back Guarantee)"
+msgstr "Actualizar a la versión Premium (14 días de garantía de devolución del dinero)"
+
+#: inc/welcome/sections/support.php:14
+msgid "Still, having problems after reading all the documentation? No Problem!! Please create a support ticket. Our dedicated support team will help you to solve your problem."
+msgstr "¿Todavía tienes problemas después de leer toda la documentación? ¡No hay problema! Por favor, crea un ticket de soporte. Nuestro equipo de soporte especializado te ayudará a resolver tu problema."
+
+#: inc/welcome/sections/support.php:9
+msgid "Read Full Documentation"
+msgstr "Leer la documentación completa"
+
+#. translators: Theme Name
+#: inc/welcome/sections/support.php:7
+msgid "Read our theme documentation. our documentation contains all the necessary information required to set up the %s theme with clean screenshout."
+msgstr "Lee la documentación del tema. Nuestra documentación contiene toda la información necesaria para configurar el tema %s con una captura de pantalla limpia."
+
+#: inc/welcome/sections/header.php:26
+msgid "Upgrade for $59"
+msgstr "Actualizar por $59"
+
+#: inc/welcome/sections/header.php:25
+msgid "Unlock all the possibilities with Construction Light Pro"
+msgstr "Desbloquea todas las posibilidades con Construction Light Pro"
+
+#: inc/welcome/sections/header.php:20
+msgid "Documentaion"
+msgstr "Documentación"
+
+#: inc/welcome/sections/header.php:19
+msgid "Premium Demos"
+msgstr "Demostraciones premium"
+
+#: inc/welcome/sections/header.php:18
+msgid "Free Demos"
+msgstr "Demostraciones gratuitas"
+
+#. translators: 1-theme name
+#: inc/welcome/sections/header.php:13
+msgid "Welcome and thank you for installing %1$s. Construction Light is a clean, beautiful and fully customizable responsive modern free Multipurpose WordPress theme. And of course, the premium version for additional features and better supports."
+msgstr "Bienvenidos y gracias por instalar %1$s. Construction Light es un tema para WordPress moderno, limpio, hermoso y totalmente personalizable, adaptable, libre y multipropósito. Y por supuesto, tiene una versión premium que incluye características adicionales y mejor soporte."
+
+#. translators: 1-theme name, 2-theme version
+#: inc/welcome/sections/header.php:6
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenido a %1$s - Versión %2$s"
+
+#: inc/welcome/sections/getting_started.php:33
+msgid "here"
+msgstr "aquí"
+
+#: inc/welcome/sections/getting_started.php:33
+msgid "Click on the button below to install and activate the One Click Demo Importer Plugin. For more detailed documentation on how the demo importer works, click %s."
+msgstr "Haz clic en el botón a continuación para instalar y activar el importador de la demostración en un clic. Para obtener una documentación más detallada sobre el funcionamiento del importador de la demostración, haz clic en %s."
+
+#: inc/welcome/sections/getting_started.php:32
+msgid "Or you can get started by importing the demo with just one click."
+msgstr "O puedes empezar importando la demostración con un solo clic."
+
+#: inc/welcome/sections/getting_started.php:28
+msgid "%s Demo"
+msgstr "Demostración de %s"
+
+#: inc/welcome/sections/getting_started.php:26
+msgid "Demo Importer"
+msgstr "Importador de la demostración"
+
+#: inc/welcome/sections/getting_started.php:21
+msgid "Documentation Page"
+msgstr "Página de documentación"
+
+#: inc/welcome/sections/getting_started.php:21
+msgid "For more detail visit our theme %s."
+msgstr "Para obtener más detalles, visita nuestro tema %s."
+
+#: inc/welcome/sections/getting_started.php:17
+msgid "Now go to Appearance &gt; Customize &gt; Homepage Settings and choose \"A static page\" for \"Your latest posts\" and select the created page for \"Home Page\" option."
+msgstr "Ahora ve a Apariencia &gt; Personalización &gt; Ajustes de la página de inicio y elige «Una página estática» para «Tus últimas entradas» y selecciona la página creada en la opción «Página de inicio»."
+
+#: inc/welcome/sections/getting_started.php:16
+msgid "Create a new page and edit with Elementor. Drag and drop the elements in the Elementor to create your own design."
+msgstr "Crea una nueva página y edítala con Elementor. Arrastra y suelta los elementos en Elementor para crear tu propio diseño."
+
+#: inc/welcome/sections/getting_started.php:15
+msgid "Recommended Plugin page."
+msgstr "Página de plugins recomendados."
+
+#: inc/welcome/sections/getting_started.php:15
+msgid "Firstly install and activate \"Elementor Website Builder\" plugin from"
+msgstr "En primer lugar, instalar y activar el plugin «Elementor Website Builder» desde"
+
+#: inc/welcome/sections/getting_started.php:13
+msgid "FROM ELEMENTOR"
+msgstr "DESDE ELEMENTOR"
+
+#: inc/welcome/sections/getting_started.php:11
+msgid "Now go back to %s and manage the sections."
+msgstr "Ahora vuelve a %s y gestiona las secciones."
+
+#: inc/welcome/sections/getting_started.php:9
+msgid "and choose \"Your Latest Post\" and check the Enable Construction Light Front Page."
+msgstr "y elige «Tus última entrada» y marca «Activar la portada de Construction Light»."
+
+#: inc/welcome/sections/getting_started.php:9
+msgid "Click on "
+msgstr "Haz clic en "
+
+#: inc/welcome/sections/getting_started.php:8
+msgid "Go to Appearance &gt; Customize"
+msgstr "Ve a Apariencia &gt; Personalizar"
+
+#: inc/welcome/sections/getting_started.php:6
+msgid "FROM CUSTOMIZER"
+msgstr "DESDE EL PERSONALIZADOR"
+
+#: inc/welcome/sections/getting_started.php:5
+msgid "You can setup the home page sections either from Customizer Panel or from Elementor Pagebuilder"
+msgstr "Puedes configurar las secciones de la página de inicio desde el panel de personalizador o desde el maquetador Elementor"
+
+#: inc/welcome/sections/getting_started.php:3
+msgid "Manual Setup"
+msgstr "Configuración manual"
+
+#: inc/welcome/sections/recommended_plugins.php:31
+msgid "Installed"
+msgstr "Instalado"
+
+#: inc/welcome/sections/recommended_plugins.php:28
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/welcome/sections/recommended_plugins.php:7
+msgid "Please install these free plugins. These plugins are complementary that adds more features to the theme."
+msgstr "Por favor, instala estos plugins. Estos plugins solo son complementarios y añaden más características al tema."
+
+#: inc/welcome/sections/recommended_plugins.php:6 inc/welcome/welcome.php:25
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/welcome/sections/free_vs_pro.php:130
+msgid "The premium version has the option to change the breadcrumb layout and options to change background image or background color and many more."
+msgstr "La versión premium tiene la opción de cambiar el diseño de las migas de pan y opciones para cambiar la imagen de fondo o el color de fondo y muchas más."
+
+#: inc/welcome/sections/free_vs_pro.php:159
+msgid "Display WooCommerce Product in an attractive way display product image, time, product details and price."
+msgstr "Muestra el producto de WooCommerce de una forma atractiva, mostrando la imagen del producto, la hora, los detalles del producto y el precio."
+
+#: inc/welcome/sections/free_vs_pro.php:38
+msgid "25+ Demos"
+msgstr "Más de 25 demostraciones"
+
+#: inc/welcome/sections/free_vs_pro.php:37
+msgid "5 Demo Only"
+msgstr "Solo 5 demostraciones"
+
+#: inc/welcome/welcome.php:148
+msgid "Action Failed. Something is Wrong."
+msgstr "La acción ha fallado. Algo ha ido mal."
+
+#: inc/welcome/welcome.php:123
+msgid "Click below to install and active One Click Demo Importer Plugin, It's help you to import demo."
+msgstr "Haz clic a continuación para instalar y activar el plugin One Click Demo Importer. Te ayuda a importar la demostración."
+
+#: inc/welcome/welcome.php:111
+msgid "%1$s is now installed and ready to use. You can start either by importing the ready made demo or get started by customizing it your self."
+msgstr "Ahora, %1$s ya está instalado y listo para ser usado. Puedes empezar importando la demostración ya preparada o empezar a personalizarlo tú mismo."
+
+#: inc/welcome/welcome.php:110
+msgid "Congratulations!"
+msgstr "¡Enhorabuena!"
+
+#: inc/welcome/welcome.php:26
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/welcome/sections/free_vs_pro.php:203
+msgid "Major Browser Compatible"
+msgstr "Compatible con los principales navegadores"
+
+#: inc/welcome/sections/free_vs_pro.php:175
+msgid "The premium version has custom team member with team detials like positions, social icon."
+msgstr "La versión premium tiene una opción personalizada de miembros del equipo con detalles del equipo como cargos e icono social."
+
+#: inc/welcome/sections/free_vs_pro.php:174
+msgid "Our Team Member Area"
+msgstr "Área de los miembros de nuestro equipo"
+
+#: inc/welcome/sections/free_vs_pro.php:152
+msgid "The premium Version has enhanced WooCommerce options like adding cart icon in the menu, product page settings, sidebar layout settings and more."
+msgstr "La versión premium ha mejorado las opciones de WooCommerce, como la adición del icono del carrito en el menú, los ajustes de la página del producto, los ajustes del diseño de la barra lateral y más."
+
+#: inc/welcome/sections/free_vs_pro.php:145
+msgid "The premium version has the option to change the website layout to be full width or boxed. Additionally, you can set the width of the website container."
+msgstr "La versión premium tiene la opción de cambiar el diseño de la web para que sea de ancho completo o en cajas. Además, puedes establecer el ancho del contenedor de la web."
+
+#: inc/welcome/sections/free_vs_pro.php:144
+msgid "Website Layout (Fullwidth or Boxed)"
+msgstr "Diseño de la web (ancho completo o en cajas)"
+
+#: inc/welcome/sections/free_vs_pro.php:123
+msgid "The premium version easily allows to remove or change the footer credit text."
+msgstr "La versión premium permite eliminar o cambiar fácilmente el texto de acreditación del pie de página."
+
+#: inc/customizer/customizer.php:48 inc/welcome/sections/free_vs_pro.php:122
+msgid "Remove Footer Credit Text"
+msgstr "Eliminar el texto de acreditación del pie de página"
+
+#: inc/welcome/sections/free_vs_pro.php:116
+msgid "With custom widget and Site origin page builder, you can play to create various website layout."
+msgstr "Con widgets personalizados y Site Origin Page Builder, puedes jugar para crear diversos diseños de la web."
+
+#: inc/welcome/sections/free_vs_pro.php:22
+#: inc/welcome/sections/free_vs_pro.php:241
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr "Actualiza a la versión pro para características adicionales y mejor soporte."
+
+#: inc/welcome/sections/support.php:13 inc/welcome/sections/support.php:15
+msgid "Create Support Tickets"
+msgstr "Crear tickets de soporte"
+
+#: inc/welcome/welcome.php:122
+msgid "Import Demo"
+msgstr "Importar demo"
+
+#: inc/welcome/sections/free_vs_pro.php:188
+msgid "Translation Ready"
+msgstr "Preparado para traducir"
+
+#: inc/welcome/welcome.php:27
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/welcome/sections/recommended_plugins.php:35
+msgid "Install Now"
+msgstr "Instalar"
+
+#: inc/welcome/sections/footer.php:7
+msgid "Upgrade Now"
+msgstr "Mejora ahora"
+
+#: inc/welcome/sections/free_vs_pro.php:35
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/customizer/custom-controller.php:1285
+#: inc/welcome/sections/free_vs_pro.php:21
+#: inc/welcome/sections/free_vs_pro.php:240
+msgid "Upgrade to Pro"
+msgstr "Mejorar a Pro"
+
+#: inc/elementor/widgets/counter.php:147
+msgid "Counter Setting :"
+msgstr "Ajuste del contador:"
+
+#: inc/elementor/widgets/counter.php:138
+msgid "Enter Counter Number :"
+msgstr "Introduce el número del contador:"
+
+#: inc/elementor/widgets/counter.php:128
+msgid "Enter Counter Title :"
+msgstr "Introduce el título del contador:"
+
+#: inc/elementor/widgets/counter.php:36 inc/elementor/widgets/counter.php:76
+msgid "Counter"
+msgstr "Contador"
+
+#: inc/elementor/widgets/testimonial.php:135
+msgid "Testimonial :"
+msgstr "Testimonio:"
+
+#: inc/elementor/widgets/testimonial.php:36
+#: inc/elementor/widgets/testimonial.php:76
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: inc/elementor/widgets/calltoaction.php:152
+msgid "Enter Button Two Link :"
+msgstr "Introduce el enlace del botón dos:"
+
+#: inc/elementor/widgets/calltoaction.php:142
+msgid "Enter Button Two Text :"
+msgstr "Introduce el texto del botón dos:"
+
+#: inc/elementor/widgets/calltoaction.php:125
+msgid "Enter Button One Link :"
+msgstr "Introduce el enlace del botón uno:"
+
+#: inc/elementor/widgets/calltoaction.php:115
+msgid "Enter Button One Text :"
+msgstr "Introduce el texto del botón uno:"
+
+#: inc/elementor/widgets/calltoaction.php:36
+#: inc/elementor/widgets/calltoaction.php:77
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: inc/elementor/widgets/team.php:193
+msgid "Team :"
+msgstr "Equipo:"
+
+#: inc/elementor/widgets/team.php:177
+msgid "Enter Instagram URL :"
+msgstr "Introduce la URL de Instagram:"
+
+#: inc/elementor/widgets/team.php:160
+msgid "Enter Twitter URL :"
+msgstr "Introduce la URL de Twitter:"
+
+#: inc/elementor/widgets/team.php:143
+msgid "Enter Facebook URL :"
+msgstr "Introduce la URL de Facebook:"
+
+#: inc/elementor/widgets/team.php:133 inc/elementor/widgets/testimonial.php:126
+msgid "Enter Designation :"
+msgstr "Introduce el cargo:"
+
+#: inc/elementor/widgets/team.php:103
+msgid "Team Layout"
+msgstr "Diseño del equipo"
+
+#: inc/elementor/widgets/team.php:36 inc/elementor/widgets/team.php:76
+msgid "Team"
+msgstr "Equipo"
+
+#: inc/elementor/widgets/service.php:145
+msgid "Our Service :"
+msgstr "Nuestros servicios:"
+
+#: inc/elementor/widgets/service.php:105
+msgid "Service Layout :"
+msgstr "Diseño de los servicios:"
+
+#: inc/elementor/widgets/service.php:95
+msgid "Enter Service Section Subitle :"
+msgstr "Introduce el subtítulo de la sección de servicios:"
+
+#: inc/elementor/widgets/service.php:85
+msgid "Enter Service Section Title :"
+msgstr "Introduce el título de la sección de servicios:"
+
+#: inc/elementor/widgets/service.php:77
+msgid "Our Servcie"
+msgstr "Nuestros servicios"
+
+#: inc/elementor/widgets/service.php:36
+msgid "Our Service"
+msgstr "Nuestros servicios"
+
+#: inc/elementor/widgets/featured-service.php:108
+msgid "Featured Service :"
+msgstr "Servicio destacado:"
+
+#: inc/elementor/widgets/counter.php:117
+#: inc/elementor/widgets/featured-service.php:98
+#: inc/elementor/widgets/service.php:135
+msgid "Select Icon :"
+msgstr "Selecciona un icono:"
+
+#: inc/elementor/widgets/featured-service.php:35
+#: inc/elementor/widgets/featured-service.php:75
+msgid "Featured Service"
+msgstr "Servicio destacado"
+
+#: inc/elementor/widgets/about.php:285
+msgid "Layout 3"
+msgstr "Diseño 3"
+
+#: inc/customizer/customizer.php:1044 inc/customizer/customizer.php:1062
+#: inc/customizer/customizer.php:2012 inc/elementor/widgets/about.php:262
+#: inc/elementor/widgets/service.php:239
+#: inc/elementor/widgets/testimonial.php:178
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/customizer.php:1063 inc/customizer/customizer.php:2011
+#: inc/elementor/widgets/about.php:258 inc/elementor/widgets/service.php:235
+#: inc/elementor/widgets/testimonial.php:174
+msgid "Center"
+msgstr "Centrar"
+
+#: inc/customizer/customizer.php:1043 inc/customizer/customizer.php:1061
+#: inc/customizer/customizer.php:2010 inc/elementor/widgets/about.php:254
+#: inc/elementor/widgets/service.php:231
+#: inc/elementor/widgets/testimonial.php:170
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/customizer.php:2006 inc/elementor/widgets/about.php:250
+#: inc/elementor/widgets/service.php:227
+#: inc/elementor/widgets/testimonial.php:166
+msgid "Alignment"
+msgstr "Alineación"
+
+#: inc/elementor/widgets/about.php:197
+msgid "Achivement Award Settings :"
+msgstr "Ajustes del premio a la excelencia:"
+
+#: inc/elementor/widgets/about.php:188
+msgid "Achivement Award Number :"
+msgstr "Número de premios a la excelencia:"
+
+#: inc/elementor/widgets/about.php:178
+msgid "Achivement Award Title :"
+msgstr "Título del premio a la excelencia:"
+
+#: inc/elementor/widgets/about.php:165
+msgid "Hide"
+msgstr "Ocultar"
+
+#: inc/elementor/widgets/about.php:164
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/elementor/widgets/about.php:162
+msgid "Show Achivement Award Counter"
+msgstr "Mostrar el contador de premios a la excelencia"
+
+#: inc/elementor/widgets/about.php:144
+msgid "Enter Contct Number :"
+msgstr "Introduce el número de contacto:"
+
+#: inc/elementor/widgets/about.php:134
+msgid "Enter Email Address :"
+msgstr "Introduce la dirección de correo electrónico:"
+
+#: inc/elementor/widgets/about.php:111
+msgid "Content Excerpt"
+msgstr "Extracto del contenido"
+
+#: inc/elementor/widgets/about.php:106
+msgid "Display the posts from:"
+msgstr "Mostrar las entradas desde:"
+
+#: inc/elementor/widgets/about.php:97
+msgid "About Us Image :"
+msgstr "Imagen de «Sobre nosotros»:"
+
+#: inc/elementor/widgets/about.php:86
+#: inc/elementor/widgets/featured-service.php:87
+#: inc/elementor/widgets/service.php:124 inc/elementor/widgets/team.php:122
+#: inc/elementor/widgets/testimonial.php:115
+msgid "Select Page :"
+msgstr "Elige una página:"
+
+#: inc/elementor/widgets/about.php:36 inc/elementor/widgets/about.php:77
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: inc/elementor/widgets/video-calltoaction.php:115
+msgid "Enter Youtube Video Link :"
+msgstr "Introduce un enlace de vídeo de YouTube:"
+
+#: inc/elementor/widgets/calltoaction.php:85
+#: inc/elementor/widgets/counter.php:84
+#: inc/elementor/widgets/testimonial.php:84
+#: inc/elementor/widgets/video-calltoaction.php:85
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/elementor/widgets/video-calltoaction.php:36
+#: inc/elementor/widgets/video-calltoaction.php:77
+msgid "Video Call To Action"
+msgstr "Vídeo de la llamada a la acción"
+
+#: inc/elementor/widgets/client.php:132
+msgid "Client :"
+msgstr "Cliente:"
+
+#: inc/elementor/widgets/calltoaction.php:128
+#: inc/elementor/widgets/calltoaction.php:155
+#: inc/elementor/widgets/client.php:119 inc/elementor/widgets/team.php:146
+#: inc/elementor/widgets/team.php:163 inc/elementor/widgets/team.php:180
+msgid "https://your-link.com"
+msgstr "https://tu-enlace.com"
+
+#: inc/elementor/widgets/client.php:116
+msgid "Enter Client Link :"
+msgstr "Introduce el enlace del cliente :"
+
+#: inc/elementor/widgets/client.php:106
+msgid "Upload Client Image :"
+msgstr "Sube la imagen del cliente:"
+
+#: inc/elementor/widgets/client.php:94
+msgid "Enter Section Subtitle :"
+msgstr "Introduce el subtítulo de la sección:"
+
+#: inc/elementor/widgets/blog.php:197
+#: inc/elementor/widgets/featured-service.php:139
+#: inc/elementor/widgets/service.php:187 inc/elementor/widgets/team.php:256
+#: inc/elementor/widgets/testimonial.php:158
+msgid "Four Column"
+msgstr "Cuatro columnas"
+
+#: inc/elementor/widgets/blog.php:196
+#: inc/elementor/widgets/featured-service.php:138
+#: inc/elementor/widgets/service.php:186 inc/elementor/widgets/team.php:255
+#: inc/elementor/widgets/testimonial.php:157
+msgid "Three Column"
+msgstr "Tres columnas"
+
+#: inc/elementor/widgets/blog.php:195
+#: inc/elementor/widgets/featured-service.php:137
+#: inc/elementor/widgets/service.php:185 inc/elementor/widgets/team.php:254
+#: inc/elementor/widgets/testimonial.php:156
+msgid "Two Column"
+msgstr "Dos columnas"
+
+#: inc/elementor/widgets/blog.php:194 inc/elementor/widgets/service.php:184
+#: inc/elementor/widgets/team.php:253 inc/elementor/widgets/testimonial.php:155
+msgid "Single Column"
+msgstr "Una columna"
+
+#: inc/elementor/widgets/blog.php:187
+#: inc/elementor/widgets/featured-service.php:121
+#: inc/elementor/widgets/featured-service.php:130
+#: inc/elementor/widgets/service.php:177 inc/elementor/widgets/team.php:246
+#: inc/elementor/widgets/testimonial.php:148
+msgid "Columns"
+msgstr "Columnas"
+
+#: inc/elementor/widgets/blog.php:135
+msgid "Six Blog Posts"
+msgstr "Seis entradas de blog"
+
+#: inc/elementor/widgets/blog.php:134
+msgid "Three Blog Posts"
+msgstr "Tres entradas de blog"
+
+#: inc/elementor/widgets/blog.php:128
+msgid "Number Of Blog Post To Display :"
+msgstr "Número de entradas del blog a mostrar:"
+
+#: inc/elementor/widgets/about.php:121 inc/elementor/widgets/blog.php:118
+#: inc/elementor/widgets/service.php:157
+msgid "Enter Button Text :"
+msgstr "Introducir el texto del botón:"
+
+#: inc/elementor/widgets/blog.php:36
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/elementor/widgets/about.php:238 inc/elementor/widgets/blog.php:173
+#: inc/elementor/widgets/client.php:172 inc/elementor/widgets/portfolio.php:146
+#: inc/elementor/widgets/service.php:215 inc/elementor/widgets/team.php:233
+msgid "Title Color"
+msgstr "Color del título"
+
+#: inc/elementor/widgets/about.php:225 inc/elementor/widgets/blog.php:161
+#: inc/elementor/widgets/client.php:160 inc/elementor/widgets/portfolio.php:134
+#: inc/elementor/widgets/service.php:202 inc/elementor/widgets/team.php:221
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: inc/elementor/widgets/about.php:224 inc/elementor/widgets/blog.php:160
+#: inc/elementor/widgets/client.php:159 inc/elementor/widgets/portfolio.php:133
+#: inc/elementor/widgets/service.php:201 inc/elementor/widgets/team.php:220
+msgid "lowercase"
+msgstr "minúsculas"
+
+#: inc/elementor/widgets/about.php:223 inc/elementor/widgets/blog.php:159
+#: inc/elementor/widgets/client.php:158 inc/elementor/widgets/portfolio.php:132
+#: inc/elementor/widgets/service.php:200 inc/elementor/widgets/team.php:219
+msgid "UPPERCASE"
+msgstr "MAYÚSCULAS"
+
+#: inc/elementor/widgets/about.php:218 inc/elementor/widgets/blog.php:154
+#: inc/elementor/widgets/client.php:153 inc/elementor/widgets/portfolio.php:127
+#: inc/elementor/widgets/service.php:195 inc/elementor/widgets/team.php:214
+msgid "Title Text Transform"
+msgstr "Transformación del texto del título"
+
+#: inc/elementor/widgets/about.php:210 inc/elementor/widgets/blog.php:146
+#: inc/elementor/widgets/client.php:145 inc/elementor/widgets/portfolio.php:119
+#: inc/elementor/widgets/service.php:168 inc/elementor/widgets/team.php:206
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/elementor/widgets/blog.php:106 inc/elementor/widgets/portfolio.php:106
+msgid "Select Multiple Category :"
+msgstr "Seleccione múltiples categorías:"
+
+#: inc/elementor/widgets/blog.php:96 inc/elementor/widgets/calltoaction.php:105
+#: inc/elementor/widgets/counter.php:104 inc/elementor/widgets/portfolio.php:96
+#: inc/elementor/widgets/team.php:94 inc/elementor/widgets/testimonial.php:103
+#: inc/elementor/widgets/video-calltoaction.php:105
+msgid "Enter Section Subitle :"
+msgstr "Introduce el subtítulo de la sección:"
+
+#: inc/elementor/widgets/blog.php:86 inc/elementor/widgets/calltoaction.php:95
+#: inc/elementor/widgets/client.php:84 inc/elementor/widgets/counter.php:94
+#: inc/elementor/widgets/portfolio.php:86 inc/elementor/widgets/team.php:84
+#: inc/elementor/widgets/testimonial.php:93
+#: inc/elementor/widgets/video-calltoaction.php:95
+msgid "Enter Section Title :"
+msgstr "Introduce el título de la sección:"
+
+#: inc/customizer/customizer.php:858 inc/customizer/customizer.php:1312
+#: inc/elementor/widgets/blog.php:77 inc/elementor/widgets/portfolio.php:77
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/elementor/widgets/portfolio.php:36
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: inc/elementor/widgets/about.php:283
+msgid "Layout 1"
+msgstr "Disposición 1"
+
+#: inc/elementor/widgets/about.php:284
+msgid "Layout 2"
+msgstr "Disposición 2"
+
+#: inc/customizer/product-type-settings.php:84
+#: inc/elementor/widgets/about.php:279
+msgid "Layout"
+msgstr "Disposición"
+
+#: inc/customizer/customizer.php:1862
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: inc/customizer/customizer.php:1857
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: inc/woocommerce.php:410
+msgid "%"
+msgstr "%"
+
+#: inc/woocommerce.php:363
+msgid "write a preview"
+msgstr "escribir un avance"
+
+#: inc/woocommerce.php:318
+msgid "New!"
+msgstr "¡Nuevo!"
+
+#: inc/woocommerce.php:113 inc/woocommerce.php:323
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: inc/woocommerce.php:108 section/section-producttype.php:10
+msgid "New"
+msgstr "Nuevo"
+
+#: inc/customizer/customizer.php:2650
+msgid "Breadcrumbs Background Image"
+msgstr "Imagen de fondo de las migas de pan"
+
+#: inc/customizer/customizer.php:95
+msgid "Enable Construction Light Front Page?"
+msgstr "¿Activar la portada de Construction Light?"
+
+#: inc/customizer/customizer.php:97
+msgid "Note :- Front Page only Works after selecting \"Your latest posts\" Options & Enabling the check box"
+msgstr "Nota: la portada solo funciona después de seleccionar la opción «Tus últimas entradas» y activar la casilla de verificación"
+
+#: inc/woocommerce.php:489
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de la compra"
+
+#. translators: %s: post title
+#: inc/template-tags.php:162
+msgid "no comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "no hay comentarios <span class=\"screen-reader-text\">en %s</span>"
+
+#: inc/customizer/customizer.php:605 inc/customizer/customizer.php:643
+#: inc/customizer/customizer.php:864 inc/customizer/customizer.php:977
+#: inc/customizer/customizer.php:1318 inc/customizer/customizer.php:1329
+#: section/section-service.php:149 section/section-service.php:183
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/customizer/customizer.php:112
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/customizer/customizer-pro/class-customize.php:91
+#: inc/welcome/sections/support.php:3
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/customizer/customizer-pro/class-customize.php:92
+#: inc/customizer/product-type-settings.php:102
+msgid "View"
+msgstr "Ver"
+
+#: header/header-one.php:122
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: header/header-one.php:108
+msgid "Contact Address"
+msgstr "Dirección de contacto"
+
+#: header/header-one.php:90
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: header/header-one.php:144 header/header-two.php:85
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/widgets/widget-counter.php:314
+msgid "Add Counter"
+msgstr "Añadir contador"
+
+#: inc/widgets/widget-counter.php:226 inc/widgets/widget-counter.php:289
+msgid "Enter Counter Number"
+msgstr "Introduce el número del contador"
+
+#: inc/widgets/widget-counter.php:216 inc/widgets/widget-counter.php:281
+msgid "Enter Counter Title"
+msgstr "Introduce el título del contador"
+
+#: inc/widgets/widget-counter.php:175
+msgid "Manage Counter Settings"
+msgstr "Gestionar los ajustes del contador"
+
+#: inc/widgets/widget-counter.php:164
+msgid "Enter Counter Section Subtitle"
+msgstr "Introduce el subtítulo de la sección del contador"
+
+#: inc/widgets/widget-counter.php:154
+msgid "Enter Counter Section Title"
+msgstr "Introduce el título de la sección del contador"
+
+#: inc/widgets/widget-counter.php:43
+msgid "Widgeet Displays Success Business Awards Count"
+msgstr "El widget muestra el número de premios a la excelencia del negocio"
+
+#: inc/widgets/widget-counter.php:42
+msgid "&nbsp;CL : Counter"
+msgstr "&nbsp;CL: contador"
+
+#: inc/widgets/widget-service.php:292
+msgid "Add Service Page"
+msgstr "Añadir página de servicios"
+
+#: inc/widgets/widget-service.php:246
+msgid "Service Page"
+msgstr "Página de servicios"
+
+#: inc/widgets/widget-service.php:181
+msgid "Service Page "
+msgstr "Página de servicios "
+
+#: inc/widgets/widget-service.php:158
+msgid "Service Page Settings"
+msgstr "Ajustes de la página de servicios"
+
+#: inc/widgets/widget-service.php:149
+msgid "Enter Service Section Subtitle"
+msgstr "Introduce el subtítulo de la sección de servicios"
+
+#: inc/widgets/widget-service.php:40
+msgid "Widget Displays Main Service Area"
+msgstr "El widget muestra el área del servicio principal"
+
+#: inc/widgets/widget-service.php:39
+msgid "&nbsp;CL : Our Main Service"
+msgstr "&nbsp;CL: nuestro servicio principal"
+
+#: inc/widgets/widget-about.php:405
+msgid "Add Award Achivements"
+msgstr "Añadir premio a la excelencia"
+
+#: inc/elementor/widgets/about.php:155 inc/widgets/widget-about.php:364
+msgid "Award Achivement Settings"
+msgstr "Ajustes de los premios a la excelencia"
+
+#: inc/widgets/widget-about.php:318 inc/widgets/widget-about.php:380
+msgid "Enter Award Number"
+msgstr "Introduce el número de premios"
+
+#: inc/widgets/widget-about.php:306 inc/widgets/widget-about.php:373
+msgid "Enter Award Title"
+msgstr "Introduce el título del premio"
+
+#: inc/widgets/widget-about.php:294
+msgid "Achivement Award Settings"
+msgstr "Ajustes del premio a la excelencia"
+
+#: inc/widgets/widget-about.php:231
+msgid "Content Options"
+msgstr "Opciones de contenido"
+
+#: inc/widgets/widget-about.php:211
+msgid "Select AboutUs Page"
+msgstr "Selecciona la página «Sobre nosotros»"
+
+#: inc/widgets/widget-about.php:57
+msgid "Widget Displays About Us with some Details"
+msgstr "El widget muestra «Sobre nosotros» con algunos detalles"
+
+#: inc/widgets/widget-about.php:56
+msgid "&nbsp;CL : About Us"
+msgstr "&nbsp;CL: sobre nosotros"
+
+#: inc/widgets/widget-team.php:358
+msgid "Add Team"
+msgstr "Añadir equipo"
+
+#: inc/widgets/widget-team.php:333
+msgid " Enter Instagram Url"
+msgstr " Introduce la URL de Instagram"
+
+#: inc/widgets/widget-team.php:325
+msgid " Enter Twitter Url"
+msgstr " Introduce la URL de Twitter"
+
+#: inc/widgets/widget-team.php:286
+msgid "Team Page"
+msgstr "Página del equipo"
+
+#: inc/widgets/widget-team.php:242
+msgid "Enter Instagram Url"
+msgstr "Introduce la URL de Instagram"
+
+#: inc/widgets/widget-team.php:233
+msgid "Enter Twitter Url"
+msgstr "Introduce la URL de Twitter"
+
+#: inc/widgets/widget-team.php:224 inc/widgets/widget-team.php:317
+msgid "Enter Facebook URL"
+msgstr "Introduce la URL de Facebook"
+
+#: inc/widgets/widget-team.php:191
+msgid "Team Page "
+msgstr "Página del equipo "
+
+#: inc/widgets/widget-team.php:168
+msgid "Our Team Member Settings"
+msgstr "Ajustes de los miembros de «Nuestro equipo»"
+
+#: inc/widgets/widget-team.php:158
+msgid "Enter Team Section Subtitle"
+msgstr "Introduce el subtítulo de la sección de equipo"
+
+#: inc/widgets/widget-team.php:150
+msgid "Enter Team Section Title"
+msgstr "Introduce el título de la sección de equipo"
+
+#: inc/widgets/widget-team.php:46
+msgid "Widget Displays Our Team Members"
+msgstr "El widget muestra a los miembros de «Nuestro equipo»"
+
+#: inc/widgets/widget-team.php:45
+msgid "&nbsp;CL : Our Team Member"
+msgstr "&nbsp;CL: miembros de «Nuestro equipo»"
+
+#: inc/widgets/widget-featured-service.php:255
+msgid "Add Featured Service Page"
+msgstr "Añadir página de servicio destacado"
+
+#: inc/widgets/widget-featured-service.php:212
+msgid "Featured Service Page"
+msgstr "Página de servicios destacados"
+
+#: inc/widgets/widget-counter.php:206 inc/widgets/widget-counter.php:274
+#: inc/widgets/widget-featured-service.php:173
+#: inc/widgets/widget-featured-service.php:234
+msgid "More Icon Class"
+msgstr "Más clases de iconos"
+
+#: inc/widgets/widget-counter.php:205 inc/widgets/widget-counter.php:273
+#: inc/widgets/widget-featured-service.php:172
+#: inc/widgets/widget-featured-service.php:233
+msgid "Enter Fontawesome Icon Class (Ex :- fas fa-truck-monster )"
+msgstr "Introduce la clase del iconos de Font Awesome (p. ej.: fas fa-truck-monster)"
+
+#: inc/widgets/widget-featured-service.php:150
+msgid "Featured Service Page "
+msgstr "Página de servicios destacados "
+
+#: inc/widgets/widget-featured-service.php:38
+msgid "Widget Displays Featured Service Area"
+msgstr "El widget muestra el área de servicios destacados"
+
+#: inc/widgets/widget-featured-service.php:37
+msgid "&nbsp;CL : Featured Service"
+msgstr "&nbsp;CL: servicios destacados"
+
+#: inc/widgets/widget-blog.php:134
+msgid "Enter Blog Section Subtitle"
+msgstr "Introduce el subtítulo de la sección del blog"
+
+#: inc/widgets/widget-blog.php:126
+msgid "Enter Blog Section Title"
+msgstr "Introduce el título de la sección del blog"
+
+#: inc/widgets/widget-blog.php:23
+msgid "Widget Displays Selected Category Blog Posts"
+msgstr "El widget muestra las entradas del blog de la categoría seleccionada"
+
+#: inc/widgets/widget-blog.php:22
+msgid "&nbsp;CL : Our Blog Posts"
+msgstr "&nbsp;CL: entradas de nuestro blog"
+
+#: inc/widgets/widget-blog.php:141 inc/widgets/widget-portfolio.php:178
+msgid "Select Categories you want to show:"
+msgstr "Selecciona las categorías que quieras mostrar:"
+
+#: inc/widgets/widget-portfolio.php:171
+msgid "Enter Portfolio Section Subtitle"
+msgstr "Introduce el subtítulo de la sección de porfolio"
+
+#: inc/widgets/widget-portfolio.php:163
+msgid "Enter Portfolio Section Title"
+msgstr "Introduce el título de la sección de porfolio"
+
+#: inc/widgets/widget-portfolio.php:22
+msgid "Widget Displays Success Portfolio"
+msgstr "El widget muestra el porfolio de trabajos terminados"
+
+#: inc/widgets/widget-portfolio.php:21
+msgid "&nbsp;CL : Portfolio"
+msgstr "&nbsp;CL: porfolio"
+
+#: inc/widgets/widget-testimonial.php:310
+msgid "Add Testimonial"
+msgstr "Añadir testimonio"
+
+#: inc/widgets/widget-testimonial.php:263
+msgid "Testimonial Page"
+msgstr "Página de testimonios"
+
+#: inc/widgets/widget-testimonial.php:195
+msgid "Testimonial Page "
+msgstr "Página de testimonios "
+
+#: inc/widgets/widget-testimonial.php:172
+msgid "Testimonial Settings"
+msgstr "Ajustes de los testimonios"
+
+#: inc/widgets/widget-testimonial.php:162
+msgid "Enter Testimonial Section Subtitle"
+msgstr "Introduce el subtítulo de la sección de testimonios"
+
+#: inc/widgets/widget-testimonial.php:154
+msgid "Enter Testimonial Section Title"
+msgstr "Introduce el título de la sección de testimonios"
+
+#: inc/widgets/widget-testimonial.php:43
+msgid "Widget Displays Customer Reviews"
+msgstr "El widget muestra las opiniones de los clientes"
+
+#: inc/widgets/widget-testimonial.php:42
+msgid "&nbsp;CL : Testimonial"
+msgstr "&nbsp;CL: testimonios"
+
+#: inc/elementor/elementor-function.php:99 inc/widgets/siteorigin-panels.php:44
+msgid "Construction Light Widgets"
+msgstr "Widgets de Construction Light"
+
+#: inc/widgets/widget-clients.php:269
+msgid "Add Client"
+msgstr "Añadir cliente"
+
+#: inc/widgets/widget-clients.php:237
+msgid "Select Client Image"
+msgstr "Selecciona la imagen del cliente"
+
+#: inc/widgets/widget-clients.php:178 inc/widgets/widget-clients.php:245
+msgid "Enter Client Link"
+msgstr "Introduce el enlace del cliente"
+
+#: inc/widgets/widget-clients.php:169
+msgid "Upload Client Image"
+msgstr "Sube la imagen del cliente"
+
+#: inc/elementor/widgets/client.php:36 inc/elementor/widgets/client.php:76
+#: inc/widgets/widget-clients.php:150 inc/widgets/widget-clients.php:219
+msgid "Client"
+msgstr "Cliente"
+
+#: inc/widgets/widget-clients.php:128
+msgid "Client Settings"
+msgstr "Ajustes del cliente"
+
+#: inc/widgets/widget-clients.php:119
+msgid "Enter Client Section Subitle"
+msgstr "Introduce el subtítulo de la sección de clientes"
+
+#: inc/widgets/widget-clients.php:112
+msgid "Enter Client Section Title"
+msgstr "Introduce el título de la sección de clientes"
+
+#: inc/widgets/widget-clients.php:45
+msgid "Widget Displays Client Brand Logo"
+msgstr "El widget muestra el logotipo de la marca del cliente"
+
+#: inc/widgets/widget-clients.php:44
+msgid "&nbsp;CL : Clients Brand Logo"
+msgstr "&nbsp;CL: logotipo de la marca del cliente"
+
+#: inc/widgets/widget-video.php:143
+msgid "Enter Youtube Video Link"
+msgstr "Introduce el enlace de vídeo de YouTube"
+
+#: inc/widgets/widget-video.php:43
+msgid "Widget Displays Video Business Video"
+msgstr "El widget muestra un vídeo de negocios"
+
+#: inc/widgets/widget-video.php:42
+msgid "&nbsp;CL : Video Call To Action"
+msgstr "&nbsp;CL: vídeo de llamada a la acción"
+
+#: inc/widgets/widget_calltoaction.php:149
+msgid "Enter Call To Action Section Subtitle"
+msgstr "Introduce el subtítulo de la sección de llamada a la acción"
+
+#: inc/widgets/widget_calltoaction.php:141
+msgid "Enter Call To Action Section Title"
+msgstr "Introduce el título de la sección de llamada a la acción"
+
+#: inc/widgets/widget-clients.php:171 inc/widgets/widget-counter.php:146
+#: inc/widgets/widget-testimonial.php:148
+#: inc/widgets/widget_calltoaction.php:135
+msgid "Remove Image"
+msgstr "Quitar imagen"
+
+#: inc/customizer/customizer.php:622 inc/widgets/widget-clients.php:160
+#: inc/widgets/widget-clients.php:169 inc/widgets/widget-clients.php:228
+#: inc/widgets/widget-counter.php:144 inc/widgets/widget-testimonial.php:146
+#: inc/widgets/widget_calltoaction.php:133
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/widgets/widget-counter.php:139 inc/widgets/widget-testimonial.php:141
+#: inc/widgets/widget-video.php:117 inc/widgets/widget_calltoaction.php:128
+msgid "Image preview"
+msgstr "Vista previa de la imagen"
+
+#: inc/widgets/widget-clients.php:169 inc/widgets/widget-counter.php:128
+#: inc/widgets/widget-counter.php:144 inc/widgets/widget-testimonial.php:130
+#: inc/widgets/widget-testimonial.php:146 inc/widgets/widget-video.php:120
+#: inc/widgets/widget_calltoaction.php:117
+#: inc/widgets/widget_calltoaction.php:133
+msgid "Select Background Image"
+msgstr "Selecciona imagen de fondo"
+
+#: inc/widgets/widget_calltoaction.php:46
+msgid "Widget Displays Business Promotion Area"
+msgstr "El widget muestra el área de promoción de negocios"
+
+#: inc/widgets/widget_calltoaction.php:45
+msgid "&nbsp;CL : Call To Action"
+msgstr "&nbsp;CL: llamada a la acción"
+
+#: inc/elementor/widgets/portfolio.php:187 inc/themes-functions.php:781
+#: inc/widgets/widget-portfolio.php:58
+msgid "All Works"
+msgstr "Todos los trabajos"
+
+#: inc/elementor/widgets/about.php:400 inc/themes-functions.php:562
+#: inc/widgets/widget-about.php:150
+msgid "Contact Us :"
+msgstr "Contáctanos:"
+
+#: inc/elementor/widgets/about.php:389 inc/themes-functions.php:554
+#: inc/widgets/widget-about.php:144
+msgid "Email Us :"
+msgstr "Envíanos un correo electrónico:"
+
+#: inc/themes-functions.php:199
+msgid "Copyright  &copy; "
+msgstr "Copyright &copy; "
+
+#: inc/customizer/custom-controller.php:201 inc/mobile-menu/mobile-menu.php:7
+#: inc/widgets/widget-about.php:330 inc/widgets/widget-about.php:394
+#: inc/widgets/widget-clients.php:190 inc/widgets/widget-clients.php:258
+#: inc/widgets/widget-counter.php:238 inc/widgets/widget-counter.php:303
+#: inc/widgets/widget-featured-service.php:185
+#: inc/widgets/widget-featured-service.php:246
+#: inc/widgets/widget-service.php:217 inc/widgets/widget-service.php:281
+#: inc/widgets/widget-team.php:256 inc/widgets/widget-team.php:347
+#: inc/widgets/widget-testimonial.php:233
+#: inc/widgets/widget-testimonial.php:299
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/customizer/custom-controller.php:200
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/customizer/custom-controller.php:183 inc/widgets/widget-about.php:326
+#: inc/widgets/widget-about.php:389 inc/widgets/widget-clients.php:186
+#: inc/widgets/widget-clients.php:254 inc/widgets/widget-counter.php:234
+#: inc/widgets/widget-counter.php:298
+#: inc/widgets/widget-featured-service.php:181
+#: inc/widgets/widget-featured-service.php:242
+#: inc/widgets/widget-service.php:212 inc/widgets/widget-service.php:277
+#: inc/widgets/widget-team.php:252 inc/widgets/widget-team.php:343
+#: inc/widgets/widget-testimonial.php:229
+#: inc/widgets/widget-testimonial.php:295
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/customizer/custom-controller.php:177
+msgid "No image selected"
+msgstr "No se ha seleccionado ninguna imagen"
+
+#: inc/customizer/customizer.php:2853
+msgid "Post Meta Author"
+msgstr "Autor de la entrada"
+
+#: inc/customizer/customizer.php:2832
+msgid "Post Meta Comments"
+msgstr "Comentarios de la entrada"
+
+#: inc/customizer/customizer.php:2811
+msgid "Post Meta Date"
+msgstr "Fecha de la entrada"
+
+#: inc/customizer/customizer.php:2794
+msgid "Enter Posts Excerpt Length"
+msgstr "Introduce la longitud del extracto de las entradas"
+
+#: inc/customizer/customizer.php:2770
+msgid "Enter Blog Button Text"
+msgstr "Introduce el texto del botón del blog"
+
+#: inc/customizer/customizer.php:2756
+msgid "Post Description"
+msgstr "Descripción de la entrada"
+
+#: inc/customizer/customizer.php:2739
+msgid "Post Content"
+msgstr "Contenido de la entrada"
+
+#: inc/customizer/customizer.php:2738
+msgid "Post Excerpt"
+msgstr "Extracto de la entrada"
+
+#: inc/customizer/customizer.php:2737 inc/elementor/widgets/about.php:222
+#: inc/elementor/widgets/blog.php:158 inc/elementor/widgets/client.php:157
+#: inc/elementor/widgets/portfolio.php:131
+#: inc/elementor/widgets/service.php:199 inc/elementor/widgets/team.php:218
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/customizer.php:2729
+msgid "Post Display Layout"
+msgstr "Diseño de la entrada"
+
+#: inc/customizer/customizer.php:2719
+msgid "Masonry Layout"
+msgstr "Diseño de muro"
+
+#: inc/customizer/customizer.php:2718
+msgid "Normal Layout"
+msgstr "Diseño normal"
+
+#: inc/customizer/customizer.php:2708
+msgid "Note: Blog Template Layout Only Work When you can select page template ( Blog Template )"
+msgstr "Nota: el diseño de la plantilla del blog solo funciona cuando se selecciona la plantilla de la página «Plantilla del blog»"
+
+#: inc/customizer/customizer.php:2705
+msgid "Blog Template Layout Settings"
+msgstr "Ajustes de diseño de la plantilla del blog"
+
+#: inc/customizer/customizer.php:2692
+msgid ""
+"Note: Selected Category Only Work When you can select page template (\n"
+"\t\t\t    \tBlog Template )"
+msgstr "Nota: la categoría seleccionada solo funciona cuando se selecciona la plantilla de la página «Plantilla del blog»"
+
+#: inc/customizer/customizer.php:2676
+msgid "Blog Template Settings"
+msgstr "Ajustes de la plantilla del blog"
+
+#: inc/customizer/customizer.php:2623
+msgid "Enable/Disable Breadcrumbs"
+msgstr "Activar o desactivar las migas de pan"
+
+#: inc/customizer/customizer.php:2611
+msgid "Breadcrumbs Settings"
+msgstr "Ajustes de las migas de pan"
+
+#: inc/customizer/customizer.php:2596
+msgid "Search Page Sidebar"
+msgstr "Barra lateral de la página de búsqueda"
+
+#: inc/customizer/customizer.php:2562
+msgid "Blog Archive Sidebar"
+msgstr "Barra lateral de los archivo del blog"
+
+#: inc/customizer/customizer.php:2550 inc/customizer/customizer.php:2567
+#: inc/customizer/customizer.php:2584 inc/customizer/customizer.php:2601
+#: inc/customizer/customizer.php:2711
+msgid "Sidebar / Content"
+msgstr "Barra lateral / Contenido"
+
+#: inc/customizer/customizer.php:2545
+msgid "Index Blog Posts Sidebar"
+msgstr "Barra lateral del índice de entradas del blog"
+
+#: inc/customizer/customizer.php:2528
+msgid "Enable Sticky Sidebar"
+msgstr "Activar barra lateral fija"
+
+#: inc/customizer/customizer.php:2517
+msgid "Display Sidebar Settings"
+msgstr "Mostrar los ajustes de la barra lateral"
+
+#: inc/customizer/customizer.php:2508 inc/customizer/customizer.php:2551
+#: inc/customizer/customizer.php:2568 inc/customizer/customizer.php:2585
+#: inc/customizer/customizer.php:2602 inc/customizer/customizer.php:2712
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/customizer.php:2487
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/customizer.php:2432
+msgid "Enter Client Logo Link"
+msgstr "Introduce el enlace del logotipo del cliente"
+
+#: inc/customizer/customizer.php:2427
+msgid "Upload Clients Logo"
+msgstr "Sube el logotipo del cliente"
+
+#: inc/customizer/customizer.php:2419
+msgid "Client Logo Setting Options"
+msgstr "Opciones de ajuste del logotipo del cliente"
+
+#: inc/customizer/customizer.php:2416
+msgid "Client Logo Settings"
+msgstr "Ajustes del logotipo del cliente"
+
+#: inc/customizer/customizer.php:2346
+msgid "Clients Section"
+msgstr "Sección de clientes"
+
+#: inc/customizer/customizer.php:2297
+msgid "Team Section Layout"
+msgstr "Diseño de la sección de equipo"
+
+#: inc/customizer/customizer.php:2283
+msgid "Enter Instagram Link"
+msgstr "Introduce el enlace de Instagram"
+
+#: inc/customizer/customizer.php:2277
+msgid "Enter Linkedin Link"
+msgstr "Introduce el enlace de Linkedin"
+
+#: inc/customizer/customizer.php:2271
+msgid "Enter Twitter Link"
+msgstr "Introduce el enlace de Twitter"
+
+#: inc/customizer/customizer.php:2265
+msgid "Enter Facebook Link"
+msgstr "Introduce el enlace de Facebook"
+
+#: inc/customizer/customizer.php:2253
+msgid "Select Team Page"
+msgstr "Selecciona la página del equipo"
+
+#: inc/customizer/customizer.php:2246
+msgid "Team Settings Options"
+msgstr "Opciones de ajuste del equipo"
+
+#: inc/customizer/customizer.php:2243
+msgid "Team Settings"
+msgstr "Ajustes del equipo"
+
+#: inc/customizer/customizer.php:2170
+msgid "Our Team Section"
+msgstr "Sección «Nuestro equipo»"
+
+#: inc/customizer/customizer.php:2130 inc/customizer/customizer.php:2259
+#: inc/widgets/widget-team.php:215 inc/widgets/widget-team.php:309
+#: inc/widgets/widget-testimonial.php:219
+#: inc/widgets/widget-testimonial.php:286
+msgid "Enter Designation"
+msgstr "Introduce el cargo"
+
+#: inc/customizer/customizer.php:2124
+msgid "Select Testimonial Page"
+msgstr "Selecciona la página de testimonios"
+
+#: inc/customizer/customizer.php:2118
+msgid "Testimonial Settings Options"
+msgstr "Opciones de ajuste de los testimonios"
+
+#: inc/customizer/customizer.php:2115
+msgid "Testimonials Settings"
+msgstr "Ajustes de los testimonios"
+
+#: inc/customizer/customizer.php:2094
+msgid "Upload Testimonials Background Image"
+msgstr "Sube la imagen de fondo de los testimonios"
+
+#: inc/customizer/customizer.php:2038
+msgid "Testimonial Section"
+msgstr "Sección de testimonios"
+
+#: inc/customizer/customizer.php:1964 inc/customizer/customizer.php:2688
+msgid "Select Category To Show Posts"
+msgstr "Selecciona la categoría de entradas a mostrar"
+
+#: inc/customizer/customizer.php:1852
+msgid "Enter Number"
+msgstr "Introduce el número"
+
+#: inc/customizer/customizer.php:1846
+msgid "Enter Title"
+msgstr "Introduce el título"
+
+#: inc/customizer/customizer.php:1840
+msgid "Choose Counter Icon"
+msgstr "Elige el icono del contador"
+
+#: inc/customizer/customizer.php:1832
+msgid "Counter Settings Options"
+msgstr "Opciones de ajuste del contador"
+
+#: inc/customizer/customizer.php:1829 inc/widgets/widget-counter.php:195
+#: inc/widgets/widget-counter.php:264
+msgid "Counter Settings"
+msgstr "Ajustes de contador"
+
+#: inc/customizer/customizer.php:1805
+msgid "Upload Counter Background Image"
+msgstr "Sube la imagen de fondo del contador"
+
+#: inc/customizer/customizer.php:1644
+msgid "Portfolio Section"
+msgstr "Sección de porfolio"
+
+#: inc/customizer/customizer.php:1619
+msgid "Upload Video Background Image"
+msgstr "Sube la imagen de fondo del vídeo"
+
+#: inc/customizer/customizer.php:1578
+msgid "Enter Youtube Video URL"
+msgstr "Introduce la URL del vídeo de YouTube"
+
+#: inc/customizer/customizer.php:1536
+msgid "Video Call To Action Section"
+msgstr "Sección de vídeo de la llamada a la acción"
+
+#: inc/customizer/customizer.php:1510 inc/widgets/widget_calltoaction.php:181
+msgid "Enter Button Two Link"
+msgstr "Introduce el enlace del botón dos"
+
+#: inc/customizer/customizer.php:1498 inc/widgets/widget_calltoaction.php:173
+msgid "Enter Button Two Text"
+msgstr "Introduce el texto del botón dos"
+
+#: inc/customizer/customizer.php:1485 inc/widgets/widget_calltoaction.php:165
+msgid "Enter Button One Link"
+msgstr "Introduce el enlace del botón uno"
+
+#: inc/customizer/customizer.php:1473 inc/widgets/widget_calltoaction.php:157
+msgid "Enter Button One Text"
+msgstr "Introduce el texto del botón uno"
+
+#: inc/customizer/customizer.php:1461 inc/customizer/customizer.php:1607
+#: inc/widgets/widget-video.php:135
+msgid "Enter Section Subtitle"
+msgstr "Introduce el subtítulo de la sección"
+
+#: inc/customizer/customizer.php:1449 inc/customizer/customizer.php:1590
+#: inc/customizer/customizer.php:1676 inc/customizer/customizer.php:1776
+#: inc/customizer/customizer.php:1935 inc/customizer/customizer.php:2070
+#: inc/customizer/customizer.php:2202 inc/customizer/customizer.php:2378
+#: inc/customizer/pricing-settings.php:37 inc/widgets/widget-video.php:127
+msgid "Enter Section Title"
+msgstr "Introduce el título de la sección"
+
+#: inc/customizer/customizer.php:1436 inc/widgets/widget-video.php:109
+msgid "Upload Background Image"
+msgstr "Subir imagen de fondo"
+
+#: inc/customizer/customizer.php:1348
+msgid "Our Service Layout"
+msgstr "Diseño de «Nuestros servicios»"
+
+#: inc/customizer/customizer.php:1335
+msgid "Enter Services Button Text"
+msgstr "Introduce el texto del botón de servicios"
+
+#: inc/customizer/customizer.php:1259
+msgid "Select Service Page"
+msgstr "Selecciona la página de servicio"
+
+#: inc/customizer/customizer.php:1253
+msgid "Service Settings Options"
+msgstr "Opciones de ajuste de los servicios"
+
+#: inc/customizer/customizer.php:1250
+msgid "Our Service Settings"
+msgstr "Ajustes de «Nuestros servicios»"
+
+#: inc/customizer/customizer.php:1214
+msgid "Enter Service Section Sub Title"
+msgstr "Introduce el subtítulo de la sección de servicios"
+
+#: inc/customizer/customizer.php:1197 inc/widgets/widget-service.php:141
+msgid "Enter Service Section Title"
+msgstr "Introduce el título de la sección de servicios"
+
+#: inc/customizer/customizer.php:1165
+msgid "Our Service Section"
+msgstr "Sección «Nuestros servicios»"
+
+#: inc/customizer/customizer.php:1087
+msgid "Add New Awards"
+msgstr "Añadir un nuevo premio"
+
+#: inc/widgets/widget-about.php:274
+msgid "Achivement Awards Settings"
+msgstr "Ajustes de los premios a la excelencia"
+
+#: inc/customizer/customizer.php:1026
+msgid "Check to Display Progress Bar"
+msgstr "Márcalo para mostrar la barra de progreso"
+
+#: inc/customizer/customizer.php:1012 inc/widgets/widget-about.php:247
+msgid "Enter About Us Phone Number"
+msgstr "Introduce el número de teléfono de «Sobre nosotros»"
+
+#: inc/customizer/customizer.php:1000 inc/widgets/widget-about.php:256
+msgid "Enter About Us Email Address"
+msgstr "Introduce la dirección de correo electrónico de «Sobre nosotros»"
+
+#: inc/customizer/customizer.php:982 inc/widgets/widget-about.php:265
+#: inc/widgets/widget-service.php:205 inc/widgets/widget-service.php:269
+msgid "Enter Button Text"
+msgstr "Introduce el texto del botón"
+
+#: inc/customizer/customizer.php:971 inc/elementor/widgets/about.php:112
+#: inc/widgets/widget-about.php:30
+msgid "Full Content"
+msgstr "Contenido completo"
+
+#: inc/customizer/customizer.php:970 inc/widgets/widget-about.php:29
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/customizer.php:952
+msgid "Upload About Features Image"
+msgstr "Subir la imagen de «Acerca de las características»"
+
+#: inc/customizer/customizer.php:940 inc/customizer/customizer.php:966
+msgid "Select Page "
+msgstr "Seleccionar página "
+
+#: inc/customizer/customizer.php:1254 inc/customizer/customizer.php:2119
+#: inc/customizer/customizer.php:2247
+msgid "Add New Page"
+msgstr "Añadir nueva página"
+
+#: inc/customizer/customizer.php:795 inc/customizer/customizer.php:798
+#: inc/customizer/customizer.php:837
+msgid "Features Service Settings"
+msgstr "Ajustes de las características de los servicios"
+
+#: inc/customizer/customizer.php:195 inc/customizer/customizer.php:491
+#: inc/customizer/customizer.php:749 inc/customizer/customizer.php:925
+#: inc/customizer/customizer.php:1182 inc/customizer/customizer.php:1410
+#: inc/customizer/customizer.php:1553 inc/customizer/customizer.php:1661
+#: inc/customizer/customizer.php:1761 inc/customizer/customizer.php:1920
+#: inc/customizer/customizer.php:2055 inc/customizer/customizer.php:2187
+#: inc/customizer/customizer.php:2363
+msgid "Enable / Disable"
+msgstr "Activar/desactivar"
+
+#: inc/customizer/customizer.php:731
+msgid "Features Service Section"
+msgstr "Sección de las características de los servicios"
+
+#: inc/customizer/customizer.php:586
+msgid "Enter Second Button Url"
+msgstr "Introduce la URL del segundo botón"
+
+#: inc/customizer/customizer.php:580
+msgid "Enter Second Button Text"
+msgstr "Introduce el texto del segundo botón"
+
+#: inc/customizer/customizer.php:574
+msgid "Enter First Button Url"
+msgstr "Introduce la URL del primer botón"
+
+#: inc/customizer/customizer.php:568
+msgid "Enter First Button Text"
+msgstr "Introduce el texto del primer botón"
+
+#: inc/customizer/customizer.php:562
+msgid "Select Slider Page"
+msgstr "Selecciona la página del carrusel"
+
+#: inc/customizer/customizer.php:555
+msgid "Add New Slider"
+msgstr "Añadir un nuevo carrusel"
+
+#: inc/customizer/customizer.php:554
+msgid "Slider Settings Options"
+msgstr "Opciones de ajuste del carrusel"
+
+#: inc/customizer/customizer.php:551
+msgid "Banner Slider Page Settings"
+msgstr "Ajustes de página del carrusel del banner"
+
+#: inc/customizer/customizer.php:473
+msgid "Home Slider Settings"
+msgstr "Ajustes del carrusel de inicio"
+
+#: inc/customizer/customizer.php:465
+msgid "Drag and Drop to Reorder"
+msgstr "Arrastrar y soltar para reordenar"
+
+#: inc/customizer/customizer.php:463
+#: inc/welcome/sections/getting_started.php:11
+msgid "Home Sections"
+msgstr "Secciones de portada"
+
+#: inc/customizer/customizer.php:366 inc/customizer/customizer.php:425
+#: inc/customizer/customizer.php:1353 inc/customizer/customizer.php:2302
+#: inc/elementor/widgets/service.php:113 inc/elementor/widgets/team.php:111
+msgid "Layout Two"
+msgstr "Diseño dos"
+
+#: inc/customizer/customizer.php:365 inc/customizer/customizer.php:424
+#: inc/customizer/customizer.php:1352 inc/customizer/customizer.php:2301
+#: inc/elementor/widgets/service.php:112 inc/elementor/widgets/team.php:110
+msgid "Layout One"
+msgstr "Diseño uno"
+
+#: inc/customizer/customizer.php:349
+msgid "Header Layout Settings"
+msgstr "Ajustes de diseño de cabecera"
+
+#: inc/customizer/customizer.php:320
+msgid "Enter Social Link"
+msgstr "Introduce el enlace social"
+
+#: inc/customizer/customizer.php:314 inc/customizer/customizer.php:812
+#: inc/customizer/customizer.php:1265
+msgid "Choose Icon"
+msgstr "Elige un icono"
+
+#: inc/customizer/customizer.php:307 inc/customizer/customizer.php:799
+#: inc/customizer/customizer.php:840 inc/customizer/customizer.php:1294
+#: inc/customizer/customizer.php:1833 inc/customizer/customizer.php:2420
+#: inc/customizer/pricing-settings.php:77
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: inc/customizer/customizer.php:306
+msgid "Social Links Options"
+msgstr "Opciones de enlaces sociales"
+
+#: inc/customizer/customizer.php:303
+msgid "Social Links Settings"
+msgstr "Ajustes de enlaces sociales"
+
+#: inc/customizer/customizer.php:283
+msgid "Enter Email Address"
+msgstr "Introduce la dirección de correo electrónico"
+
+#: inc/customizer/customizer.php:271
+msgid "Enter Contact Number"
+msgstr "Introduce el número de contacto"
+
+#: inc/customizer/customizer.php:259
+msgid "Enter Contact Address"
+msgstr "Introduce la dirección de contacto"
+
+#: inc/customizer/customizer.php:246
+msgid "Top Header Right Side"
+msgstr "Cabecera superior del lado derecho"
+
+#: inc/customizer/customizer.php:232
+msgid "Top Header Left Side"
+msgstr "Cabecera superior del lado izquierdo"
+
+#: inc/customizer/customizer.php:221
+msgid "Top Menu Nav"
+msgstr "Navegación del menú superior"
+
+#: inc/customizer/customizer.php:219
+msgid "Quick Contact Information"
+msgstr "Información de contacto rápido"
+
+#: inc/customizer/customizer.php:184
+msgid "Top Header Settings"
+msgstr "Ajustes del menú principal"
+
+#: inc/customizer/customizer.php:158 inc/customizer/customizer.php:806
+#: inc/widgets/widget-about.php:221 inc/widgets/widget-featured-service.php:164
+#: inc/widgets/widget-featured-service.php:225
+#: inc/widgets/widget-service.php:195 inc/widgets/widget-service.php:259
+#: inc/widgets/widget-team.php:205 inc/widgets/widget-team.php:299
+#: inc/widgets/widget-testimonial.php:209
+#: inc/widgets/widget-testimonial.php:276
+msgid "Select Page"
+msgstr "Seleccionar página"
+
+#: inc/customizer/customizer.php:101
+msgid "Theme Colors Settings"
+msgstr "Ajustes de los colores del tema"
+
+#: inc/customizer/customizer.php:125
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/customizer/customizer.php:80 inc/welcome/sections/getting_started.php:9
+msgid "Enable Front Page"
+msgstr "Activar la página de portada"
+
+#: inc/customizer/customizer.php:199 inc/customizer/customizer.php:394
+#: inc/customizer/customizer.php:495 inc/customizer/customizer.php:753
+#: inc/customizer/customizer.php:929 inc/customizer/customizer.php:1186
+#: inc/customizer/customizer.php:1414 inc/customizer/customizer.php:1557
+#: inc/customizer/customizer.php:1665 inc/customizer/customizer.php:1765
+#: inc/customizer/customizer.php:1924 inc/customizer/customizer.php:2059
+#: inc/customizer/customizer.php:2191 inc/customizer/customizer.php:2367
+#: inc/customizer/customizer.php:2533 inc/customizer/customizer.php:2628
+#: inc/customizer/customizer.php:2816 inc/customizer/customizer.php:2837
+#: inc/customizer/customizer.php:2858 inc/customizer/sanitize.php:66
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer.php:198 inc/customizer/customizer.php:393
+#: inc/customizer/customizer.php:494 inc/customizer/customizer.php:752
+#: inc/customizer/customizer.php:928 inc/customizer/customizer.php:1185
+#: inc/customizer/customizer.php:1413 inc/customizer/customizer.php:1556
+#: inc/customizer/customizer.php:1664 inc/customizer/customizer.php:1764
+#: inc/customizer/customizer.php:1923 inc/customizer/customizer.php:2058
+#: inc/customizer/customizer.php:2190 inc/customizer/customizer.php:2366
+#: inc/customizer/customizer.php:2532 inc/customizer/customizer.php:2627
+#: inc/customizer/customizer.php:2815 inc/customizer/customizer.php:2836
+#: inc/customizer/customizer.php:2857 inc/customizer/sanitize.php:65
+msgid "Enable"
+msgstr "Activar"
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr "Etiquetada como %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63 inc/template-tags.php:185
+msgid ", "
+msgstr ", "
+
+#: inc/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs/breadcrumbs.php:790 inc/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs/breadcrumbs.php:789 inc/breadcrumbs/breadcrumbs.php:845
+#: inc/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs/breadcrumbs.php:788 inc/breadcrumbs/breadcrumbs.php:817
+#: inc/breadcrumbs/breadcrumbs.php:844 inc/breadcrumbs/breadcrumbs.php:871
+#: inc/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs/breadcrumbs.php:278
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:274
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:272
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr "Archivo"
+
+#: inc/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: inc/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr "Examinar:"
+
+#: inc/template-functions.php:96
+msgid "Full width"
+msgstr "Ancho completo"
+
+#: inc/template-functions.php:90
+msgid "Right (Default)"
+msgstr "Derecha (por defecto)"
+
+#: inc/template-functions.php:84
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/template-functions.php:66
+msgid "Display Page Layout Options"
+msgstr "Opciones visualización del diseño de la página"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en «%1$s»"
+
+#: 404.php:31
+msgid "Back To Home"
+msgstr "Volver a inicio"
+
+#: 404.php:21
+msgid "404"
+msgstr "404"
+
+#. Template Name of the theme
+msgid "Construction Light - Full Width"
+msgstr "Construction Light: ancho completo"
+
+#. Template Name of the theme
+msgid "Blog Template"
+msgstr "Plantilla del blog"
+
+#: functions.php:217
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:213
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:180
+msgid "Footer Widget Area Four"
+msgstr "Área de widgets del pie de página cuatro"
+
+#: functions.php:170
+msgid "Footer Widget Area Three"
+msgstr "Área de widgets del pie de página tres"
+
+#: functions.php:160
+msgid "Footer Widget Area Two"
+msgstr "Área de widgets del pie de página dos"
+
+#: functions.php:150
+msgid "Footer Widget Area One"
+msgstr "Área de widgets del pie de página uno"
+
+#: functions.php:140
+msgid "Left Widget Sidebar Area"
+msgstr "Área de widgets de la barra lateral izquierda"
+
+#: functions.php:130
+msgid "Right Widget Sidebar Area"
+msgstr "Área de widgets de la barra lateral derecha"
+
+#: functions.php:67 inc/starter-content/init.php:330
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: single.php:53
+msgid "Previous article"
+msgstr "Artículo anterior"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-masonry.php:51 template-parts/content-search.php:49
+#: template-parts/content.php:48 template-parts/content.php:69
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: archive.php:73 index.php:78 search.php:59 template-blog.php:98
+msgid "Next"
+msgstr "Siguiente"
+
+#: archive.php:72 index.php:77 search.php:58 template-blog.php:97
+msgid "Prev"
+msgstr "Anterior"
+
+#: inc/customizer/customizer.php:1099
+msgid "Enter Number Achievement Awards "
+msgstr "Introduce el número de premios conseguidos "
+
+#: inc/customizer/customizer.php:1093
+msgid "Enter Achievement Awards Title"
+msgstr "Introduce el título de los premios conseguidos"
+
+#: single.php:56
+msgid "Next article"
+msgstr "Siguiente artículo"
+
+#: inc/customizer/customizer.php:1744
+msgid "Counter Section"
+msgstr "Sección Contador"
+
+#: inc/customizer/customizer.php:176
+msgid "Header Setting"
+msgstr "Ajustes de cabecera"
+
+#: inc/customizer/customizer.php:1393
+msgid "Call To Action Section"
+msgstr "Sección de llamada a la acción"
+
+#: inc/customizer/customizer.php:2549 inc/customizer/customizer.php:2566
+#: inc/customizer/customizer.php:2583 inc/customizer/customizer.php:2600
+#: inc/customizer/customizer.php:2710
+msgid "Content / Sidebar"
+msgstr "Contenido / Barra lateral"
+
+#: inc/customizer/customizer.php:908
+msgid "About Us Section"
+msgstr "Sección Sobre nosotros"
+
+#: inc/customizer/customizer.php:361
+msgid "Header Layout"
+msgstr "Disposición de la cabecera"
+
+#: inc/customizer/customizer.php:220
+msgid "Social Media Links"
+msgstr "Enlaces a redes sociales"
+
+#: inc/themes-functions.php:298
+msgid "Search Results for:"
+msgstr "Resultados de buscar:"
+
+#: inc/customizer/customizer.php:1903
+msgid "Blog Section"
+msgstr "Sección de blog"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs/breadcrumbs.php:270
+msgid "Search results for: %s"
+msgstr "Resultados de buscar: %s"
+
+#: inc/customizer/custom-controller.php:184
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+#: inc/customizer/customizer.php:2493 inc/customizer/customizer.php:2504
+msgid "Site Layout"
+msgstr "Disposición del sitio"
+
+#: inc/customizer/customizer.php:2509
+msgid "Boxed"
+msgstr "Ancho fijo"
+
+#: inc/customizer/customizer.php:2579
+msgid "Page Sidebar"
+msgstr "Barra lateral de página"
+
+#: inc/customizer/customizer.php:1707
+#: inc/customizer/product-type-settings.php:63
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+#: inc/customizer/customizer.php:2765
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: functions.php:132 functions.php:142 functions.php:152 functions.php:162
+#: functions.php:172 functions.php:182
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que aquí no hay nada. ¿por qué no pruebas uno de estos enlaces o la búsqueda?"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. translators: %s: search query.
+#: search.php:38
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com/"
+msgstr "https://sparklewpthemes.com/"
+
+#. Author of the theme
+#: inc/themes-functions.php:201
+msgid "Sparkle Themes"
+msgstr "Sparkle Themes"
+
+#. Theme URI of the theme
+msgid "http://sparklewpthemes.com/wordpress-themes/constructionlight/"
+msgstr "http://sparklewpthemes.com/wordpress-themes/constructionlight/"
